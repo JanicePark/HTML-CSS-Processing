@@ -1,0 +1,1 @@
+This was in a news tweet - this is an example of using string variables and booleans. After the mouse/finger goes past 400 pixels on the Y-axis, the text changes to reveal the reason why a woman could not board the plane. The dots and text resembles points of destination when travelling.

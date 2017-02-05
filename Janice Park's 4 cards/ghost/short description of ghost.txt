@@ -1,0 +1,1 @@
+This is an example of using an array, modulo, and a loop. There are 3 images of different ghosts and shows 3 at a the same time. The tint gives it a random color and a transparency.

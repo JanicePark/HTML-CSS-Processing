@@ -1,0 +1,1 @@
+2 images are preloaded - an angry bird and a background.  This is an example of a modulo and using the mouse and touch pressed function to make more angry birds appear. The fill is a range of black colors to reflect the nature of a bird exploding.

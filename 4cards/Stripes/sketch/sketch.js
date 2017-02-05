@@ -14,31 +14,25 @@ function setup() {
 
 function draw() {
 	strokeWeight (10);
-	stroke ((255), random (255), random (255));
+	stroke ((255), random (30), random (50));
 	background (245,5);
 	a = (a + 0.5)%width;
 	line (a,0,100,height);
 	
 	strokeWeight (20);
-	stroke (random(255), random (255),(255));
+	stroke (random(100), random (10),(255));
 	b = (b + 0.5)%height;
 	line (b,0,0,height);
 	
 	strokeWeight (20);
-	stroke ((255), random (255), random(255));
+	stroke ((255), random (10), random(100));
 	c = (c + 0.5)%width;
 	line (c,0,350,height);
 	
 	strokeWeight (10);
-	stroke (random(255), random (255),(255));
+	stroke (random(50), random (10),(255));
 	d = (d + 0.5)%height;
 	line (d,0,250,height);
-	
-//	strokeWeight (10);
-//	stroke (0,10);
-//	line (0,300,400,300);
-
-	
 }
 
 
